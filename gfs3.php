@@ -3,6 +3,7 @@
 /**
  *	Send Gravity Forms file uploads to Amazon S3
  *	@author Ren Ventura <EnageWP.com>
+ *	@link http://www.engagewp.com/send-gravity-forms-file-uploads-to-amazon-s3/
  */
 
 //* Include the required library
